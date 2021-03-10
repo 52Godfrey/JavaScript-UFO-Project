@@ -19,7 +19,6 @@ var addData = (dataInput) => {
 
 addData(tableData);
 
-
 //Create eventListener for button
 button.on("click", () => {
 
